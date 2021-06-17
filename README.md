@@ -1,7 +1,7 @@
 <!--
  * @Author: whalefall
  * @Date: 2021-06-17 15:29:59
- * @LastEditTime: 2021-06-17 16:08:24
+ * @LastEditTime: 2021-06-17 16:11:08
  * @Description: 抑郁症自述
 -->
 # Why build this repository?
@@ -16,7 +16,8 @@
 ## And than,I've been thinking all day about how to kill myself.
 ## My parents took me to a mental hospital to see a doctor, the doctor gave me a lot of medicine.
 > 比如说: 碳酸锂,西酞普兰,阿米替林, **舍曲林没吃了副作用有点大**
- <img src="http://m.qpic.cn/psc?/V13t77b51FagKn/45NBuzDIW489QBoVep5mcbk01xTZn.6rQcZghTYf2Pzj6e.Ph7t2AQYhEIpF7jHtFvv0OeArP5KlBkaT6ZIsQ79n9QCu4Bd1BKgd.fn40JI!/b&bo=VQOAAgAAAAABF.Q!&rf=viewer_4" width = "300" height = "200" alt="图片名称" align=center />
+<img src="http://m.qpic.cn/psc?/V13t77b51FagKn/45NBuzDIW489QBoVep5mcbk01xTZn.6rQcZghTYf2Pzj6e.Ph7t2AQYhEIpF7jHtFvv0OeArP5KlBkaT6ZIsQ79n9QCu4Bd1BKgd.fn40JI!/b&bo=VQOAAgAAAAABF.Q!&rf=viewer_4" width = "300" height = "200" alt="图片名称" align=center />
+
  ![](http://m.qpic.cn/psc?/V13t77b51FagKn/45NBuzDIW489QBoVep5mcVUJ*leC4HXrZtsA4KA9Opeg2UBaaZNXNsOyII*8LjwVW5lTMjEReHy85d62.joRBMouwxokWqXs2kuIzMSmElg!/b&bo=gAJVAwAAAAABF.Q!&rf=viewer_4)
 > 
 > 现在也没去上学了,很难过.....
