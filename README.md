@@ -4,6 +4,7 @@
  * @LastEditTime: 2021-06-17 16:11:08
  * @Description: 抑郁症自述
 -->
+![割腕](./img/割腕.jpg)
 # Why build this repository?
 > ## I can see her whenever I'm writing code, even though she doesn't like me anymore. (我是老添狗 in Chinese Speaking)
 > 
