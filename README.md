@@ -1,9 +1,13 @@
 <!--
  * @Author: whalefall
  * @Date: 2021-06-17 15:29:59
- * @LastEditTime: 2021-06-17 15:48:27
+ * @LastEditTime: 2021-06-17 15:55:21
  * @Description: 抑郁症自述
 -->
+# Why build this repository?
+> ## I can see her whenever I'm writing code, even though she doesn't like me anymore. (我是老添狗 in Chinese Speaking)
+> 
+> ## The coding that makes me happier.
 # MyCuteGirl
 ## MyCuteGirl ! She's 14 years old in China.
 # My story
