@@ -1,7 +1,7 @@
 <!--
  * @Author: whalefall
  * @Date: 2021-06-17 15:29:59
- * @LastEditTime: 2021-06-20 11:15:33
+ * @LastEditTime: 2021-06-20 12:26:32
  * @Description: 
 -->
 # 各`抗抑郁`药物副作用对照表
@@ -36,16 +36,16 @@
 > 好像 `重度抑郁症` 转 `双向情感障碍` 了
 ## I began to become lazy and numb.
 ## I know I'm a waste of money living in this world...
-# But it wasn't until I met her.....
+<!-- # But it wasn't until I met her.....
 > ## She's cute, and I love to pinch her face, and she's happy to do it
 ## She made me feel a little happy.
 ## But it won't cure my depression either.
-## She was disappointed in me.
+## She was disappointed in me. -->
 ## 现在已经没去上学了,很快就要中考了,我也不知道怎么办了.每次抑郁发作都想跳楼.
-# This is her.
+<!-- # This is her.
 ![](img/1.jpg)
 ![](img/2.jpg)
 ![](img/3.jpg)
 ![](img/4.jpg)
 ![](img/5.jpg)
-![](img/6.jpg)
+![](img/6.jpg) -->
