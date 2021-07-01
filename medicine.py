@@ -1,15 +1,13 @@
 '''
 Author: whalefall
 Date: 2021-06-20 10:21:21
-LastEditTime: 2021-06-20 11:18:46
+LastEditTime: 2021-07-01 17:51:15
 Description: 爬取丁香园用药助手 关于抑郁症的所有用药数据
 '''
 import requests
 from urllib import parse
 from lxml import etree
 import json
-
-from urllib3.util.request import make_headers
 
 
 class Depression(object):
